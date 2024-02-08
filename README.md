@@ -18,7 +18,7 @@
       He trabajado principalmente de forma individual en mis proyectos personales,
       pero estoy ansioso por colaborar en equipo en proyectos emocionantes.
       Actualmente estoy trabajando en mejorar mis habilidades y agregar más
-      proyectos a mi portfolio.
+      trabajos a mi portfolio.
     </p>
   </section>
 
