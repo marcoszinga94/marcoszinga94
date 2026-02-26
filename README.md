@@ -23,15 +23,6 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <a href="https://github.com/marcoszinga94/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
 ## 📫 Cómo contactarme
 
 - **Email:** marcoszinga94@gmail.com
