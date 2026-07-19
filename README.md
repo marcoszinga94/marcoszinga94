@@ -26,5 +26,4 @@
 ## 📫 Cómo contactarme
 
 - **Email:** marcoszinga94@gmail.com
-- **LinkedIn:** [marcos-zingaretti](https://www.linkedin.com/in/marcos-zingaretti/)
 - **WhatsApp:** [Escríbeme aquí](https://wa.me/+5493584406950/)
